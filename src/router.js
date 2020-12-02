@@ -55,5 +55,6 @@ export default new Router({
             name: mine,
             component: mine
         }
+
     ]
 })
